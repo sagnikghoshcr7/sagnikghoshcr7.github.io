@@ -71,7 +71,7 @@ export default function Home() {
       </div>
 
       <p className="lead mb-4">
-        I am a third-year undergraduate Information Technology Student at KIIT University. I am amongst the top contributors in Github from India. I am an Full-Stack Intern at Kaglorsys & Flutter Developer Intern at Skillablers, presently leading the Microsoft Student Ambassadors Community KIIT. I am a Machine Learning Enthusiast also. My other interests aside from Full-Stack Development & Machine Learning are DevOps and UI/UX.
+        I am a third-year undergraduate Information Technology Student at KIIT University. I am amongst the top contributors in Github from India. I am an Full-Stack Intern at Kaglorsys & Flutter Developer Intern at Skillablers, presently leading the Microsoft Student Ambassadors Community KIIT. I am a Machine Learning Enthusiast also. My other interests are DevOps and UI/UX.
       </p>
 
       <div className="btn-group mb-5">
