@@ -21,7 +21,7 @@ const Contact = () => {
     }
 
     alert(`Thanks ${formData.name}, I will shortly connect with you!`)
-    axios.post('https://formspree.io/f/xjvpwleg', formData, {
+    axios.post('https://formspree.io/f/xpzkodjv', formData, {
       Accept: 'application/json',
     })
     setFormData({})
