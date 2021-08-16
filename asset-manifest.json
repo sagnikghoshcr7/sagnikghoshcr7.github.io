@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53fa8dc3.chunk.css",
+    "main.js": "/static/js/main.bc65fe9a.chunk.js",
+    "main.js.map": "/static/js/main.bc65fe9a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/css/2.9feff3bf.chunk.css": "/static/css/2.9feff3bf.chunk.css",
+    "static/js/2.7ef55757.chunk.js": "/static/js/2.7ef55757.chunk.js",
+    "static/js/2.7ef55757.chunk.js.map": "/static/js/2.7ef55757.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9feff3bf.chunk.css.map": "/static/css/2.9feff3bf.chunk.css.map",
+    "static/css/main.53fa8dc3.chunk.css.map": "/static/css/main.53fa8dc3.chunk.css.map",
+    "static/js/2.7ef55757.chunk.js.LICENSE.txt": "/static/js/2.7ef55757.chunk.js.LICENSE.txt",
+    "static/media/BCPrediction.70a5e25d.jpg": "/static/media/BCPrediction.70a5e25d.jpg",
+    "static/media/CPPrediction.110d88bc.jpg": "/static/media/CPPrediction.110d88bc.jpg",
+    "static/media/Chumkin.27c3e504.jpg": "/static/media/Chumkin.27c3e504.jpg",
+    "static/media/Crwn.41e4de71.jpg": "/static/media/Crwn.41e4de71.jpg",
+    "static/media/HDPrediction.0fb1b061.jpg": "/static/media/HDPrediction.0fb1b061.jpg",
+    "static/media/Sagnik Resume.02590b22.pdf": "/static/media/Sagnik Resume.02590b22.pdf",
+    "static/media/Tango.b51ae169.jpg": "/static/media/Tango.b51ae169.jpg",
+    "static/media/avatar.8746fcc2.jpg": "/static/media/avatar.8746fcc2.jpg",
+    "static/media/sagnik_cartoon.708ab314.png": "/static/media/sagnik_cartoon.708ab314.png",
+    "static/media/spinner.b9b995c8.svg": "/static/media/spinner.b9b995c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/css/2.9feff3bf.chunk.css",
+    "static/js/2.7ef55757.chunk.js",
+    "static/css/main.53fa8dc3.chunk.css",
+    "static/js/main.bc65fe9a.chunk.js"
+  ]
+}
